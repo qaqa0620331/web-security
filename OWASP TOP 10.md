@@ -40,3 +40,5 @@ A10:2017-Insufficient Logging&Monitoring
 
 # A10:2017-Insufficient Logging&Monitoring (記錄與監控不足)
 ## 當記錄與監控不足時，攻擊者能進一步攻擊系統、竄改資料、存取資料或刪除資料。而多數研究報告指出，當系統被攻擊後，受害系統要花超過 200 天以上才會發現資料外洩，且通常是透過第三方檢測工具發現，不是透過內部流程監控。
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10
